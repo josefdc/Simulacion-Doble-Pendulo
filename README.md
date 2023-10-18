@@ -7,7 +7,7 @@ Este repositorio contiene una simulación y animación de un péndulo doble, imp
 - **double_pendulum_simulation.m:** Función principal que simula y anima el movimiento del péndulo doble.
 - **main.tex:** Documento LaTeX principal.
 
-![Animación del Péndulo Doble](LaTex/bloggif_653031ffd30c5.gif)
+![Animación del Péndulo Doble](mi_proyecto/LaTex/bloggif_653031ffd30c5.gif)
 
 ## 🛠 Requisitos
 
